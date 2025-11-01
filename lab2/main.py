@@ -182,3 +182,4 @@ plt.tight_layout()
 plt.savefig("ecdf_XY.png")
 plt.close()
 print("ecdf_XY.png сохранена")
+
